@@ -12,7 +12,7 @@ In this talk, I will explain the current challenges of a datalake and how we can
 
 This repo contains slides and code for Mauro Pelucchi's "Data warehouses meet data lakes" @ PyCON LT 2025 - VILNIUS (LT).
 
-- [Access slides](https://github.com/mauropelucchi/pyconlt2025/blob/main/Datawarehouses_meet_datalake_MauroPelucchi_PyconLT2025.pdf)
+- [Access slides](https://github.com/mauropelucchi/pyconlt2025/blob/main/Datawarehouses_meet_datalake_MauroPelucchi_PyconLT_2025.pdf)
 
 
 # MIT License
