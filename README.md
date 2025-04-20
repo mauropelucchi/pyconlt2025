@@ -1,7 +1,7 @@
 # Data warehouses meet data lakes @ PYCONLT 2025
 ## What is the question?
 
-![](https://raw.githubusercontent.com/mauropelucchi/pyconlt2025/main/logo.png)
+![](https://raw.githubusercontent.com/mauropelucchi/pyconlt2025/blob/main/logo.png)
 
 Many organizations have migrated their data warehouses to datalake solutions in recent years.
 With the convergence of the data warehouse and the data lake, a new data management paradigm has emerged that combines the best of 2 approaches: the bottom-up of big data and the top-down of a classic data warehouse.
